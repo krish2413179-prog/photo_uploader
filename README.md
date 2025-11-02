@@ -1,16 +1,17 @@
-# photo_uploader
+## photo_uploader
 
-A new Flutter project.
+Flutter Photo Uploader
 
-## Getting Started
+This project contains the source code for a single-screen Flutter application that can:
 
-This project is a starting point for a Flutter application.
+Display a camera preview.
 
-A few resources to get you started if this is your first Flutter project:
+Take a text comment.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+On button press:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Get the device's current location.
+
+Capture an image.
+
+Upload the comment, location, and image to a server.
